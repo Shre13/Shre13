@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Arathi</h1>
 <h3 align="center">Machine Learning & Data Engineering Enthusiast | Building Scalable AI Systems</h3>
 
-- 🔭 I’m currently working on [Heart Disease Prediction](https://github.com/Shre13/Heart-Disease-Prediction)
-
 - 🌱 I’m currently exploring **Generative AI, Multimodal Models, and Scalable ML Systems**
 
 - 💼 Experienced in building **real-time ML pipelines and data-driven systems**
