@@ -16,7 +16,7 @@ I build scalable software, data pipelines, and machine learning systems that tur
 * 🎓 BTech Computer Science graduate from **Vellore Institute of Technology**
 * 💻 Interested in **Software Engineering, Data Engineering, Machine Learning, and AI Systems**
 * ⚙️ Experienced with **full-stack applications, ETL pipelines, ML workflows, and research-based AI projects**
-* 🌱 Currently exploring **Generative AI, Information Retrieval, Multimodal Models, and Scalable ML Systems**
+* 🌱 Currently focused on Machine Learning, Information Retrieval, Data Engineering, Backend Systems, and Conversational AI
 * 💬 Ask me about **Python, Java, SQL, PySpark, FastAPI, React, Machine Learning, and Data Pipelines**
 * 📫 Reach me at **[s.shreya.arathi@gmail.com](mailto:s.shreya.arathi@gmail.com)**
 
@@ -28,6 +28,7 @@ I build scalable software, data pipelines, and machine learning systems that tur
 * **Machine Learning Systems** for classification, fraud detection, retrieval, and model evaluation
 * **Full-Stack Applications** using React, FastAPI, PostgreSQL, Docker, and REST APIs
 * **AI-Driven Tools** involving generative AI, retrieval systems, and intelligent automation
+* * **Conversational AI Tools** involving voice workflows, LLM-powered assistants, call automation, and real-time user interaction
 
 ---
 
