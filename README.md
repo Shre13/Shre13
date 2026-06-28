@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya Arathi</h1>
+<h1 align="center">Hey, I'm Shreya Arathi 😊</h1>
 
 <h3 align="center">
 MS Computer Science Student @ UMass Amherst | Software Engineering • Data Engineering • Machine Learning
