@@ -28,7 +28,7 @@ I build scalable software, data pipelines, and machine learning systems that tur
 * **Machine Learning Systems** for classification, fraud detection, retrieval, and model evaluation
 * **Full-Stack Applications** using React, FastAPI, MongoDB, Docker, and REST APIs
 * **AI-Driven Tools** involving generative AI, retrieval systems, and intelligent automation
-* * **Conversational AI Tools** involving voice workflows, LLM-powered assistants, call automation, and real-time user interaction
+* **Conversational AI Tools** involving voice workflows, LLM-powered assistants, call automation, and real-time user interaction
 
 ---
 
