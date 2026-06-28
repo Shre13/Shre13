@@ -26,7 +26,7 @@ I build scalable software, data pipelines, and machine learning systems that tur
 
 * **Scalable Data Pipelines** using PySpark, SQL, Azure Databricks, and distributed processing
 * **Machine Learning Systems** for classification, fraud detection, retrieval, and model evaluation
-* **Full-Stack Applications** using React, FastAPI, PostgreSQL, Docker, and REST APIs
+* **Full-Stack Applications** using React, FastAPI, MongoDB, Docker, and REST APIs
 * **AI-Driven Tools** involving generative AI, retrieval systems, and intelligent automation
 * * **Conversational AI Tools** involving voice workflows, LLM-powered assistants, call automation, and real-time user interaction
 
@@ -64,7 +64,6 @@ I build scalable software, data pipelines, and machine learning systems that tur
 
 <!-- Databases -->
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" alt="PostgreSQL"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB"/>
 
