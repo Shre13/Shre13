@@ -35,7 +35,7 @@ I build scalable software, data pipelines, and machine learning systems that tur
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shreya-a-283689225/" target="blank">
+<a href="www.linkedin.com/in/shreya-arathi" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
 </a>
 </p>
@@ -66,6 +66,7 @@ I build scalable software, data pipelines, and machine learning systems that tur
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" alt="PostgreSQL"/>
 
 <!-- ML & Data -->
 
@@ -79,6 +80,7 @@ I build scalable software, data pipelines, and machine learning systems that tur
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" alt="Git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="42" height="42" alt="Redis"/>
 
 </p>
 
