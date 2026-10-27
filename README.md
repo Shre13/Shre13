@@ -88,4 +88,4 @@ I build scalable software, data pipelines, and machine learning systems that tur
 
 ### 📌 Current Focus
 
-I am currently building stronger projects in **AI systems, backend engineering, data engineering, and machine learning**, while actively seeking internship opportunities where I can contribute to impactful software and intelligent data-driven products.
+I’m currently building stronger projects in AI systems, backend engineering, data engineering, and machine learning, and I’m seeking 2027 new grad Software Engineer / Data Engineer roles (graduating May 2027) where I can contribute to impactful software and intelligent, data-driven products.
